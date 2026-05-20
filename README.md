@@ -56,9 +56,16 @@ Si, cuando entras a la web te salta una especie de footer diciendo que utiliza c
 
 <img width="492" height="85" alt="8" src="https://github.com/user-attachments/assets/841116ad-f4e5-4106-a0b1-a130d1f17948" />
 
+La propia política de cookies de la web indica que para seguir navegando por nuestro sitio web sin denegar su autorización significa que acepta su uso. Esto es un patrón oscuro clásico expresamente prohibido por el RGPD. El silencio o la continuación de la navegación no son formas válidas de consentimiento ya que puedes seguir navegando por la pagina sin necesidad de aceptar o rechazar las cookies.
+
 **2\. Datos innecesarios**. ¿Pide la web datos personales excesivos en su formulario de contacto o registro?
 
 La web cuenta con un formulario donde solo te piden tu nombre, correo electrónico y el mensaje que quieres enviar. Así que no piden datos personales en exceso.
+
+El formulario de contacto únicamente solicita los datos imprescindibles para responder al usuario, con un checkbox de aceptación de términos y condiciones. La estructura visible indica que se trata de un formulario mínimo sin solicitar datos como teléfono, dirección, fecha de nacimiento, DNI ni ningún otro dato que resultaría excesivo para una simple consulta a un restaurante.
+
+<img width="676" height="441" alt="form" src="https://github.com/user-attachments/assets/576f6638-8353-4ccd-989a-a04b20682435" />
+
 
 ## **Fase 4: Propuesta de Refactorización (Green Coding)**
 
