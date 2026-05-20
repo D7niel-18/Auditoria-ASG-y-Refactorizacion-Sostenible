@@ -5,7 +5,7 @@
 
 En mi caso utilice la web llamada Website Carbon para ver el rendimiento que tiene la web que seleccione.
 
-<img width="100%" height="250px" alt="1" src="https://github.com/user-attachments/assets/ab41153a-8278-405f-ab03-45ef596818a4" />
+<img width="434" height="391" alt="1" src="https://github.com/user-attachments/assets/ab41153a-8278-405f-ab03-45ef596818a4" />
 
 En este caso la web elegida [autenticodonerkebap.com](https://www.autenticodonerkebap.com/) obtuvo una calificación	D que aproximadamente este sitio web es un 53% más sucio que el resto de páginas produciendo 0.23 gramos de CO2 por visita.
 
