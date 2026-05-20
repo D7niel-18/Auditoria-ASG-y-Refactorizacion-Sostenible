@@ -84,3 +84,6 @@ Trataría de corregir los fallos de los scripts que generar esos fallos y borrar
 **Si optimizamos la web y la carga mucho más rápido, podríamos atraer a muchos más usuarios diarios. ¿Cómo evitarías que este éxito anule el ahorro energético conseguido?**
 
 Esta claro que contra mas personas visiten el sitio web mas carga se le da al servidor haciendo que genere mas calor y por consecuencia mas consumo. En mi caso lo que haria seria encargarme de optimizar muy bien la parte de la web y la parte del servidor escribiendo codigo limpio, borrando scripts que no se usan, quitando elementos que no se usan.
+
+---
+En la carpeta Kebab_refactorizado puede ver un pequeño ejemplo de como quedaria el sitio web usando HTML y CSS. Y cumpliendo la misma funcion que el sitio web original.
