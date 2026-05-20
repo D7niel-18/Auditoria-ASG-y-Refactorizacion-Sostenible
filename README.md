@@ -7,7 +7,7 @@ En mi caso utilice la web llamada Website Carbon para ver el rendimiento que tie
 
 <img width="434" height="391" alt="1" src="https://github.com/user-attachments/assets/ab41153a-8278-405f-ab03-45ef596818a4" />
 
-En este caso la web elegida [autenticodonerkebap.com](https://www.autenticodonerkebap.com/) obtuvo una calificación	D que aproximadamente este sitio web es un 53% más sucio que el resto de páginas.
+En este caso la web elegida [autenticodonerkebap.com](https://www.autenticodonerkebap.com/) obtuvo una calificación	D que aproximadamente este sitio web es un 53% más sucio que el resto de páginas produciendo 0.23 gramos de CO2 por visita.
 
 **2\. Identificación de *Bloatware***. Inspecciona la red (*Network*) en las herramientas de desarrollador del navegador. Identifica los 3 recursos más pesados que se descargan al abrir la web (imágenes sin comprimir, vídeos de fondo, librerías JavaScript pesadas, etc.).
 
